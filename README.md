@@ -1,2 +1,2 @@
 # Sockets-Py
-Basic Sockets implementation 
+Basic Sockets implementation and chat app with python
