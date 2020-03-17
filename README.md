@@ -1,2 +1,2 @@
 # Sockets-Py
-Basic Sockets implementation and chat app with python
+Basic Sockets code using python to buffer and stream objects with pickle 
