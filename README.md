@@ -6,7 +6,7 @@ Sockets code in python to stream and buffer objects using pickle.
 Python - https://www.python.org/
 
 ## Local Execution
-#### In Terminal 1
+##### In Terminal 1
 python -m server.py 
-#### In Terminal 2
+##### In Terminal 2
 python -m client.py 
